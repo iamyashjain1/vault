@@ -1,0 +1,1 @@
+Debian is a Unix-like operating system made up entirely of free software, known for its stability and extensive package repository.

@@ -1,0 +1,1 @@
+CentOS is a Linux distribution that provides a free, enterprise-class, community-supported computing platform.
